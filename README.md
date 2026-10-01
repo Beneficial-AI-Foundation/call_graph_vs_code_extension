@@ -1,5 +1,13 @@
 # Call Graph Visualizer Extension
 
+**This repository is archived.** The extension now lives in
+[`probegraph/vscode`](https://github.com/Beneficial-AI-Foundation/probegraph/tree/main/vscode),
+with its history, and is built together with the viewer it embeds. Open
+issues and pull requests there. The branch `wip/webview-uncommitted-2026-02`
+keeps the last uncommitted working-tree state of this repo.
+
+---
+
 A VS Code extension that provides **interactive call graph exploration** for Verus/Rust projects. This extension embeds the full [scip-callgraph](https://github.com/Beneficial-AI-Foundation/scip-callgraph) web app directly in VS Code, giving you powerful filtering and visualization capabilities.
 
 ## ✨ Features
